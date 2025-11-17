@@ -71,12 +71,3 @@ Concluí o ensino médio com Técnico em Informática e atualmente estou cursand
 <br/>
 
 ---
-
-### Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFoletto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=12" 
-  />
