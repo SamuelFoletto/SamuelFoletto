@@ -1,5 +1,5 @@
 Me chamo Samuel Foletto, tenho 25 anos e moro em Cascavel - PR. <br/>
-Concluí o ensino médio com Técnico em Informática e atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na PUCPR, onde sou bolsista integral pelo PROUNI. <br/>
+Concluí o ensino médio com Técnico em Informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUCPR, onde sou bolsista integral pelo PROUNI. <br/>
 
 ---
 
@@ -45,14 +45,6 @@ Concluí o ensino médio com Técnico em Informática e atualmente estou cursand
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
 <img 
